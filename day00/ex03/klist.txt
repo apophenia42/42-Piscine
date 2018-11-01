@@ -1,0 +1,5 @@
+Credentials cache: API:36146
+        Principal: haltall@42.US.ORG
+
+  Issued                Expires               Principal
+Aug 20 17:36:06 2018  Aug 21 03:36:06 2018  krbtgt/42.US.ORG@42.US.ORG
